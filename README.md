@@ -19,8 +19,8 @@
 |---|---|
 | **Project Name** | VoxGuard AI |
 | **Category** | Artificial Intelligence · Audio Analytics · Cybersecurity |
-| **Made for** | [Hackathon / Organization / Problem Statement] |
-| **Made by** | [Your Name / Team Name] |
+| **Made for** | TECHTRK Hackathon , Technosphinx 2026 |
+| **Made by** | Mahek Shah , Team name - Dodo |
 | **Deployed Link** | [Launch VoxGuard AI](https://voxguardai-hnuxy4bm9rjgqprpphb2u9.streamlit.app/#home) |
 | **Source Code** | [View on GitHub](https://github.com/mahekshah2008/VoxGuard_AI) |
 | **Core Technologies** | Python, Streamlit, NumPy, SciPy, unittest |
@@ -240,9 +240,9 @@ These limitations define the next stage of development rather than being hidden 
 
 ## 👥 Project Credits
 
-- **Made for:** [TECHTRK Hackathon , Technosphinx 2026]
-- **Made by:** [Mahek Shah / Dodo]
-- **Role:** [Team Lead]
+- **Made for:** TECHTRK Hackathon , Technosphinx 2026
+- **Made by:** Mahek Shah / Dodo
+- **Role:** Team Lead
 - **Deployed Link:** [https://voxguardai-hnuxy4bm9rjgqprpphb2u9.streamlit.app/#home]
 - **GitHub Repository:** https://github.com/mahekshah2008/VoxGuard_AI
 
