@@ -35,7 +35,7 @@ VoxGuard AI is a lightweight Python and Streamlit prototype that analyses WAV re
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/mahekshah2008/VoxGuard_AI.git
 cd VoxGuard_AI
 ```
 
